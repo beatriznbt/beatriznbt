@@ -1,3 +1,4 @@
+<!--
 <div>
   <a href="https://github.com/beatriznbt">
 
@@ -14,6 +15,7 @@
 </picture>
 
 </div>
+-->
 
 ## My Skills
 
