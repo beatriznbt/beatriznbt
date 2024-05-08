@@ -19,7 +19,7 @@
 <!-- ![Git Stats](https://github-readme-stats.vercel.app/api?username=beatriznbt&rank_icon=github&theme=react) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriznbt&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
-
+<!--
 ## Contacts:
 
 
